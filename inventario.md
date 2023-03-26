@@ -1,6 +1,7 @@
 2034343
 2034305
 
+# componenti
 - Processori1
 - Processori2
 - Processori3
