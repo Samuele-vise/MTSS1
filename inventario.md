@@ -10,4 +10,7 @@
 - scheda_madre_2
 - scheda_madre_3
 - scheda_madre_4
+
+# periferiche
+
 Elettronica Padovana
